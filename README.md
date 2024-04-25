@@ -16,15 +16,11 @@ This is a solution to the [Dark Light Modes to Reactfacts Site project on Scrimb
 
 ### Requirements
 
-- Data array in a separate .js file
-  - Title, description, price, cover image, rating, review count, location, open spots
-- Use .map() and props
-- Style & polished
-- Mobile designed
+Add a dark/light mode to the React Facts site
 
 ### Screenshot
 
-![screenshot](/src/assets/screenshot.png)
+![screenshot](/src/assets/images/screenshot.png)
 
 ### Links
 
