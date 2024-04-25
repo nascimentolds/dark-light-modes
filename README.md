@@ -20,7 +20,7 @@ Add a dark/light mode to the React Facts site
 
 ### Screenshot
 
-![screenshot](../assets/images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ### Links
 
