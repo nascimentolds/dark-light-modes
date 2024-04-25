@@ -1,8 +1,45 @@
-# React + Vite
+# Scrimba - Travel Journal solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Dark Light Modes to Reactfacts Site project on Scrimba](https://scrimba.com/learn/learnreact/solo-project-pro-travel-journal-co74f46f2b22693c5ea577559). Scrimba helps you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Requirements](#requirements)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [My process](#my-process)
+  - [Built with](#built-with)
+
+## Overview
+
+### Requirements
+
+- Data array in a separate .js file
+  - Title, description, price, cover image, rating, review count, location, open spots
+- Use .map() and props
+- Style & polished
+- Mobile designed
+
+### Screenshot
+
+![screenshot](/src/assets/screenshot.png)
+
+### Links
+
+- Live Site URL: [@Vercel](https://dark-light-modes.vercel.app/)
+- Solution URL: [@GitHub](https://github.com/nascimentolds/dark-light-modes)
+
+### Getting Started with Vite
+
+This project was bootstrapped with [Vite](https://vitejs.dev/guide/).
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- React.JS
+- Flexbox
