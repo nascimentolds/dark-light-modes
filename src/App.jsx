@@ -4,10 +4,10 @@ import Navbar from "./components/Nav"
 import './App.css'
 
 export default function App() {
-  const [darkMode, setDarkMode] = useState("")
+  const [darkMode, setDarkMode] = useState(false)
   
   function toggleDarkMode() {
-      setDarkMode(darkMode != "dark" ? "dark" : "")
+      setDarkMode(!darkMode)
   }
   
   return (
